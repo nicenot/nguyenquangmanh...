@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp.famer\\nguyenquangmanhasp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\models\\manh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:models\\manh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\controllers\\manhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:controllers\\manhcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\views\\home\\testviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:views\\home\\testviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\views\\home\\testpartialviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:views\\home\\testpartialviewresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|d:\\asp.famer\\nguyenquangmanhasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{54C9BFAE-CC9C-4382-A288-3DBD6E314DF7}|nguyenquangmanhasp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:47:23.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestViewResult.cshtml",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\TestViewResult.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TestViewResult.cshtml",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\TestViewResult.cshtml",
+              "RelativeToolTip": "Views\\Home\\TestViewResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:46:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestPartialViewResult.cshtml",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\TestPartialViewResult.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\TestPartialViewResult.cshtml",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\TestPartialViewResult.cshtml",
+              "RelativeToolTip": "Views\\Home\\TestPartialViewResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:45:57.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T02:44:43.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:48:59.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAA5wCwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:12:30.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "manh.cs",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Models\\manh.cs",
+              "RelativeDocumentMoniker": "Models\\manh.cs",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Models\\manh.cs",
+              "RelativeToolTip": "Models\\manh.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:05:55.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "manhController.cs",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Controllers\\manhController.cs",
+              "RelativeDocumentMoniker": "Controllers\\manhController.cs",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Controllers\\manhController.cs",
+              "RelativeToolTip": "Controllers\\manhController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T02:05:20.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABpAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:48:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-15T01:46:06.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:43:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "D:\\asp.famer\\nguyenquangmanhasp\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\BundleConfig.cs",
+              "ToolTip": "D:\\asp.famer\\nguyenquangmanhasp\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:42:59.608Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
